@@ -1,2 +1,4 @@
 # Product-Service
-PS
+
+Added Rabbit MQ
+Sending Product Message
